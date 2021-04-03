@@ -1,0 +1,14 @@
+{
+  "name": "discord-rolerainbow",
+  "version": "1.0.0",
+  "description": "Discord Role Rainbow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Skiz54",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
