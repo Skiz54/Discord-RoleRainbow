@@ -1,4 +1,18 @@
 {
- "token":"NDE3MzE5MDMxMTAwNDA3ODA4.WpLAog.r1P6_U0D-jEwKY_PPhssPpIcxFs",
- "speed":"60000"
+ "token":"YOUR_PREFIX",
+ "server_ID":"ID_SERVEUR",
+ "role_ID":"LOGCHANNEL_SERVEUR",
+ "speed":"60000",
+ "color":[
+  "#FF0505",
+  "#FFB200",
+  "#FFFB00",
+  "#B6FF00",
+  "#3AFF00",
+  "#00FFD1",
+  "#00A2FF",
+  "#0800FF",
+  "#BD00FF",
+  "#FF00EC"
+ ]
 }
